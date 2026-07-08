@@ -1,7 +1,8 @@
 // ==UserScript==
+// ==UserScript==
 // @name         POE2 거래소 한영 서치 브릿지(POE2 Search Bridge Ko2En)
 // @namespace    http://tampermonkey.net/
-// @version      52.7
+// @version      0.52.7
 // @description  Automatically converts Korean Path of Exile 2 trade filters into English API queries
 // @match        https://poe.kakaogames.com/trade2*
 // @run-at       document-idle
@@ -9,6 +10,8 @@
 // @grant        unsafeWindow
 // @connect      cdn.jsdelivr.net
 // @connect      www.pathofexile.com
+// @updateURL    https://raw.githubusercontent.com/thething99/POE2KoToEnSearch/main/userscript/poe2-search-bridge-ko2en.user.js
+// @downloadURL  https://raw.githubusercontent.com/thething99/POE2KoToEnSearch/main/userscript/poe2-search-bridge-ko2en.user.js
 // ==/UserScript==
 
 (function () {
