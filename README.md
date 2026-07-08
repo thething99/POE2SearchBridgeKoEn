@@ -10,9 +10,9 @@
 ## 기능
 
 - 한국 거래소 UI에서 **글로벌 검색** 버튼 추가
-- Vue store(`window.app.$store.state.persistent`)에서 검색 상태 직접 읽기
-- 아이템 **name / type / term**만 한→영 변환 ([POE2_ItemDict](https://github.com/thething99/POE2_ItemDict) 사용)
-- **옵션(stat) 필터**는 ID 그대로 전송 (한국 API 호출 없음)
+- 글로벌 거래소 UI에서 **한글 검색** 버튼 추가
+- Vue store(`window.app.$store.state.persistent`)에서 검색 상태 직접 읽기(검색 결과 출력 없이 바로 다른 언어 검색가능) 
+
 
 ## 설치
 
