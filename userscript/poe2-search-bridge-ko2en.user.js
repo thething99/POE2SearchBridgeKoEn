@@ -1,5 +1,4 @@
 // ==UserScript==
-// ==UserScript==
 // @name         POE2 거래소 한영 서치 브릿지(POE2 Search Bridge Ko2En)
 // @author       thething99
 // @namespace    http://tampermonkey.net/
